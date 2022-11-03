@@ -1,0 +1,26 @@
+# PLAYFAIR-CIPHER-PYTHON-
+
+
+
+## OUTPUT
+
+Enter key: TEKNIK INFORMATIKA
+
+ 1. Encryption 
+ 2. Decryption: 
+ 3. EXIT1
+
+ENTER MSG: TEKNIK INFORMATIKA
+
+CIPHER TEXT: PI LO EO HO IL WR DQ EO CV
+
+1. Encryption 
+2. Decryption: 
+3. EXIT2
+
+ENTER CIPHER TEXT: PILOEOHOILWRDQEOCV
+
+PLAIN TEXT: TE KN IK IN FO RM AT IK AX
+ 1. Encryption 
+ 2. Decryption: 
+ 3. EXIT
